@@ -18,15 +18,26 @@ Install pylint library by using cammand on Terminal or Window cmd window:
 pip install pylint
 
 
-## Usage
+## Usage for pylint
 
 Save your file with some error on your code. Let say your file name "my_example.py"
 
 # to run:
 pylint my_example.py 
-   # -Above cammand list basic issues without report.
+   -Above cammand list basic issues without report.
    
 pylint my_example.py -r y
-   # -Above cammand list basic issues with report.  
+   --Above cammand list basic issues with report.
+
+## Usage for unittest
+Just run like regular python file.
+
+python my_example.py
+
+
+
+  
+
+
 
  
