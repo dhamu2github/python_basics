@@ -24,10 +24,10 @@ Save your file with some error on your code. Let say your file name "my_example.
 
 # to run:
 pylint my_example.py 
-  (cammand list basic issues without report.)
+  (command list basic issues without report.)
    
 pylint my_example.py -r y
-  (cammand list basic issues with report.)
+  (command list basic issues with report.)
 
 ## Usage for unittest
 Just run like regular python file.
